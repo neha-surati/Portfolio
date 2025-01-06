@@ -1,0 +1,16 @@
+@media only screen and (max-width: 576px) {
+    .home-handel {
+        width: 230px;
+    }
+    .about-image{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 576px) {
+   
+    .about-image{
+        width: 100%;
+    }
+}
